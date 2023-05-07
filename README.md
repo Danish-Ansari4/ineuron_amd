@@ -1,1 +1,1 @@
-# ineuron_amd
+# Python Basics Assignments
